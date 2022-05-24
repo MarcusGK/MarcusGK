@@ -50,9 +50,9 @@ public class Coche {
     
 
     public static void main(String[] args) {
-        Coche ch1 = new Coche("Anemo69","BMW","WINE-8",2600);
-        Coche ch2 = new Coche("GEO18","BYD","MORA-6",6000);
-        Coche ch3 = new Coche("Electro","NISSAN","Eternity-7",2000);
+        Coche ch1 = new Coche("matricula","marca","model",2600);
+        Coche ch2 = new Coche("matricula","marca","model",2600);
+        Coche ch3 = new Coche("matricula","marca","model",2600);
         System.out.println(ch1);
         System.out.println(ch2);
         System.out.println(ch3);
